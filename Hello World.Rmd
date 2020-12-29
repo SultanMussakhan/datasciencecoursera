@@ -1,7 +1,1 @@
----
-title: "Hello World"
-author: "Sultan Mussakhan"
-date: "29 12 2020"
-output: pdf_document
----
-## R Markdown file
+## This is a R Markdown file
